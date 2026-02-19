@@ -2,6 +2,9 @@
 
 # Nova Tech 🚀
 
+![Nova Preview](images/NovaTech%20Cover.jpg)
+
+
 Nova Tech is a modern and fully responsive landing page for a software solutions company.  
 It is built using Tailwind CSS with a focus on clean UI, smooth layout, and performance.
 
